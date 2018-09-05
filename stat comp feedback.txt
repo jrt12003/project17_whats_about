@@ -1,0 +1,20 @@
+REMEMBER: DO NOT FEEL GUILT FOR ASKING HIM FOR ANYTHING. IT'S HIS OWN FAULT FOR NOT EXPLAINING IT PROPERLY.
+
+Section 9 never tells us how to install a Git client nor even makes it clear what a Git client is or does. The picture doesn't help nor even make sense.
+
+
+
+~~~~~~~~~~
+
+
+The initial set of code in 1.1 did't work. I got the response: "Error in plot.new() : figure margins too large".
+
+Typing the dfancy code, whenever I save I get: "Not all of the characters in ~/untitled.R could be encoded using ISO8859-1. To save using a different encoding, choose "File | Save with Encoding..." from the main menu.Not all of the characters in ~/untitled.R could be encoded using ISO8859-1. To save using a different encoding, choose "File | Save with Encoding..." from the main menu."
+
+
+<< Go over notes and compile list of terms and definitions that clearly are not given and therefore need the explanation that he's too arrogant to have provided right away. Same thing with the codes. Don't fucking assume that we've seen all the code stuff you're using. >>
+
+
+
+In 10.6, it says "In the browser, go to your repo’s landing page on GitHub. Click on “Settings”.
+Scroll down, click on “delete repository,” and do as it asks." I can't tell what page is the "landing page", or find the "delete repository" button.
